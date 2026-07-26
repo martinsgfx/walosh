@@ -1,7 +1,7 @@
-import Footer from "../component/Footer";
-import Nav from "../component/Nav";
-import ServiceHero from "../component/servicespage/ServiceHero";
-import Products from "../component/servicespage/Products";
+import Footer from "../component/Footer.jsx";
+import Nav from "../component/Nav.jsx";
+import ServiceHero from "../component/servicespage/ServiceHero.jsx";
+import Products from "../component/servicespage/Products.jsx";
 
 export default function Services() {
   return (

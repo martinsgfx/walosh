@@ -1,6 +1,6 @@
-import Footer from "../component/Footer";
-import Nav from "../component/Nav";
-import AboutHero from "../component/aboutpage/AboutHero";
+import Footer from "../component/Footer.jsx";
+import Nav from "../component/Nav.jsx";
+import AboutHero from "../component/aboutpage/AboutHero.jsx";
 
 export default function About() {
   return (

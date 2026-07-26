@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { TABS } from "./productsData";
+import { TABS } from "./productsData.js";
 
 function ProductCard({ img, name, badge }) {
   return (
