@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+.kalnia {
+  font-family: "Kalnia", serif;
+  font-optical-sizing: auto;
+  font-weight: var(--kalnia-weight, 400);
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.kantumruy-pro {
+  font-family: "Kantumruy Pro", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: var(--kantumruy-weight, 400);
+  font-style: normal;
+}
