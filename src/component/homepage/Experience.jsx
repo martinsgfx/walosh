@@ -41,7 +41,13 @@ function AngledCard({ src, alt }) {
       className="overflow-hidden bg-gray-200 shrink-0 transition-transform duration-300 hover:scale-[1.03]"
       style={{ width: CARD_W, height: CARD_H, clipPath }}
     >
-      <img src={src} alt={alt} className="w-full h-full object-cover" />
+      <img
+        src={src}
+        alt={alt}
+        loading="lazy"
+        decoding="async"
+        className="w-full h-full object-cover"
+      />
     </div>
   );
 }
