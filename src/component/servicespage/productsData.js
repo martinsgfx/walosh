@@ -1,4 +1,4 @@
-import g1 from "../../assets/GeneralOne.png";
+import g1 from "../../assets/generalOne.png";
 import g2 from "../../assets/GeneralTwo.png";
 import g3 from "../../assets/GeneralThree.png";
 import g4 from "../../assets/GeneralFour.png";
