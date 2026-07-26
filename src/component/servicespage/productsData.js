@@ -1,39 +1,39 @@
-import g1 from "../../assets/generalOne.png";
-import g2 from "../../assets/generalTwo.png";
-import g3 from "../../assets/generalThree.png";
-import g4 from "../../assets/generalFour.png";
-import g5 from "../../assets/generalFive.png";
-import g6 from "../../assets/generalSix.png";
-import g7 from "../../assets/generalSeven.png";
-import g8 from "../../assets/generalEight.png";
+import g1 from "../../assets/GeneralOne.png";
+import g2 from "../../assets/GeneralTwo.png";
+import g3 from "../../assets/GeneralThree.png";
+import g4 from "../../assets/GeneralFour.png";
+import g5 from "../../assets/GeneralFive.png";
+import g6 from "../../assets/GeneralSix.png";
+import g7 from "../../assets/GeneralSeven.png";
+import g8 from "../../assets/GeneralEight.png";
 
 
-import As1 from "../../assets/as1.png";
-import As2 from "../../assets/as2.png";
-import As3 from "../../assets/as3.png";
-import As4 from "../../assets/as4.png";
-import As5 from "../../assets/as5.png";
-import As6 from "../../assets/as6.png";
-import As7 from "../../assets/as7.png";
-import As8 from "../../assets/as8.png";
+import As1 from "../../assets/As1.png";
+import As2 from "../../assets/As2.png";
+import As3 from "../../assets/As3.png";
+import As4 from "../../assets/As4.png";
+import As5 from "../../assets/As5.png";
+import As6 from "../../assets/As6.png";
+import As7 from "../../assets/As7.png";
+import As8 from "../../assets/As8.png";
 
-import Sc1 from "../../assets/sc1.png";
-import Sc2 from "../../assets/sc2.png";
-import Sc3 from "../../assets/sc3.png";
-import Sc4 from "../../assets/sc4.png";
-import Sc5 from "../../assets/sc5.png";
-import Sc6 from "../../assets/sc6.png";
-import Sc7 from "../../assets/sc7.png";
-import Sc8 from "../../assets/sc8.png";
+import Sc1 from "../../assets/Sc1.png";
+import Sc2 from "../../assets/Sc2.png";
+import Sc3 from "../../assets/Sc3.png";
+import Sc4 from "../../assets/Sc4.png";
+import Sc5 from "../../assets/Sc5.png";
+import Sc6 from "../../assets/Sc6.png";
+import Sc7 from "../../assets/Sc7.png";
+import Sc8 from "../../assets/Sc8.png";
 
-import Ao1 from "../../assets/ao1.png";
-import Ao2 from "../../assets/ao2.png";
-import Ao3 from "../../assets/ao3.png";
-import Ao4 from "../../assets/ao4.png";
-import Ao5 from "../../assets/ao5.png";
-import Ao6 from "../../assets/ao6.png";
-import Ao7 from "../../assets/ao7.png";
-import Ao8 from "../../assets/ao8.png";
+import Ao1 from "../../assets/Ao1.png";
+import Ao2 from "../../assets/Ao2.png";
+import Ao3 from "../../assets/Ao3.png";
+import Ao4 from "../../assets/Ao4.png";
+import Ao5 from "../../assets/Ao5.png";
+import Ao6 from "../../assets/Ao6.png";
+import Ao7 from "../../assets/Ao7.png";
+import Ao8 from "../../assets/Ao8.png";
 
 
 
